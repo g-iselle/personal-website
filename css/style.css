@@ -1,0 +1,54 @@
+/* * { */
+  border: 1px solid red;
+}
+
+body {
+  margin:0;
+  font-family: 'Bungee Hairline', cursive;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+ul {
+  display:flex;
+  list-style: none;
+  padding: 0;
+  color: grey;
+  margin-left: 68%;
+  font-size: 14px;
+}
+
+li {
+  margin:.5em;
+  font-style:italic;
+}
+a{
+  text-decoration: none;
+  color: grey;
+  
+}
+
+h1 {
+  margin-top: 15%;
+  font-size: 6em;
+  color: grey;
+  font-family: 'Bungee Hairline', cursive;
+}
+
+h3{
+ margin-top: -7%;
+  margin-left: 48%;
+  font-size: 1.3em;
+  color: grey;
+  font-family: 'Bungee Hairline', cursive; 
+  
+}
+
+p {
+  width: 90%;
+  font-size: 1.15em;
+  line-height:1.4em;
+}
